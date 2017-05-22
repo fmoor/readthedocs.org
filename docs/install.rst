@@ -70,6 +70,10 @@ need to install Python 3 with virtualenv in your system as well.
 
         sudo apt-get install redis-server
 
+.. note::
+
+   Some unit tests depend on Hg (mercurial).
+   Be sure that Hg is `installed <https://www.mercurial-scm.org/wiki/Download>`_ if you want to see all the tests pass.
 
 You will need to verify that your pip version is higher than 1.5 you can do this as such::
 
