@@ -1,6 +1,6 @@
 -r pip.txt
 maxcdn
-astroid<1.4
+astroid
 pylint
 prospector
 pylint-django
